@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd136b8e-655d-4836-89bd-8927092e81e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pxXSuBVViPlcg9WJSmdPoF04dE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd136b8e-655d-4836-89bd-8927092e81e0" name="Default Changelist" comment="" />
+      <created>1616125717712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616125717712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2664" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616129192467">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2664" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616129192467" />
+    <state width="1238" height="287" key="GridCell.Tab.0.bottom" timestamp="1616171626015">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1238" height="287" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616171626015" />
+    <state width="1238" height="287" key="GridCell.Tab.0.center" timestamp="1616171626014">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1238" height="287" key="GridCell.Tab.0.center/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616171626014" />
+    <state width="1238" height="287" key="GridCell.Tab.0.left" timestamp="1616171626013">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1238" height="287" key="GridCell.Tab.0.left/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616171626013" />
+    <state width="1238" height="287" key="GridCell.Tab.0.right" timestamp="1616171626014">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1238" height="287" key="GridCell.Tab.0.right/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616171626014" />
+    <state x="2688" y="131" key="SettingsEditor" timestamp="1616130174880">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2688" y="131" key="SettingsEditor/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616130174880" />
+    <state x="2938" y="294" key="extract.method.dialog" timestamp="1616131888511">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2938" y="294" key="extract.method.dialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616131888511" />
+    <state x="2865" y="255" width="670" height="675" key="run.anything.popup" timestamp="1616133203442">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2865" y="255" width="670" height="675" key="run.anything.popup/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616133203442" />
+  </component>
+</project>
